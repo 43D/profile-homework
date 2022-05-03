@@ -108,7 +108,7 @@ body.light-mode .par {
 .cover {
     border-bottom: 1px solid #252525;
     height: 42vh;
-    background-image: url('./public/img/main.png');
+    background-image: url('../img/main.png');
     background-repeat: no-repeat;
     background-size: auto 40vh;
     background-position-x: 70vw;
